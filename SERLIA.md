@@ -420,3 +420,249 @@ Disini Nathalia sadar bahwa tanpa berjuang dan terus meyakinkan dirinya bahwa ia
 </body>
 </html>
 
+
+
+# penulis2.html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Karya Lanjutan - Serlia Turu Allo</title>
+</head>
+<body>
+  <h1>Apakah Dia Akhir?</h1>
+  <p>Diakala sore hari, dipadukan dengan awan gelap serta hujan yang begitu deras mengguyur bumi bumi.  Angin yang begitu kencang, membuatku ingin terus berada di bawah gulungan selimt. Rasa kantuk dan rasa malas menyeruak kedalam hatiku. 
+    Aku putuskan menarik selimut dan Kembali tertidur. 
+    hoaamm,,,,,,,,,,hoaam,,,,,,,,hoaamm,,,,,,
+    Tiga kali aku menguap mencoba menutup mata menuju alam mimpi.
+    Saat itu juga suara notifikasi berdering nyaring di hanphoneku.
+    Ting,,,ting,,,ting. Ting,,,ting,,,ting
+    Dengan perasaan kesal, aku melihat pesan siapa yang telah mengganggu tidur ku ini.
+    Kulihat beberapa saat diam tak bergeming, berusaha stabilkan deru jantungku yang berdetak tak beraturan.
+    “Hai, kamu PKL dimana?”, pesa<!DOCTYPE html>
+    <html lang="id">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>Karya Penulis - Serlia Turu Allo</title>
+      <style>
+        body {
+          font-family: Arial, sans-serif;
+          max-width: 800px;
+          margin: 40px auto;
+          padding: 20px;
+          background-color: white;
+          box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+          color: #3498db;
+          text-align: center;
+        }
+        article {
+          background: #f9f9f9;
+          padding: 15px;
+          border-radius: 8px;
+          box-shadow: 0 0 5px rgba(0,0,0,0.1);
+          margin-bottom: 30px;
+        }
+        nav {
+          text-align: center;
+          margin-bottom: 30px;
+        }
+        nav a {
+          color: #1976d2;
+          text-decoration: none;
+          font-size: 18px;
+          font-weight: bold;
+          border: 2px solid #1976d2;
+          padding: 8px 16px;
+          border-radius: 6px;
+          transition: background-color 0.3s, color 0.3s;
+        }
+        nav a:hover {
+          background-color: #1976d2;
+          color: white;
+        }
+      </style>
+      <style>
+        body {
+          font-family: Arial, sans-serif;
+          max-width: 800px;
+          margin: 40px auto;
+          padding: 20px;
+          background-image: url("cinta.jpeg");
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          box-shadow: 0 0 10px rgba(0,0,0,0.1);
+          background-color: rgba(255, 255, 255, 0.8); /* fallback jika gambar tidak tampil */
+        }
+      
+        /* Tambahan: tambahkan overlay putih agar teks tetap terbaca */
+        body::before {
+          content: "";
+          position: fixed;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background-color: rgba(255, 255, 255, 0.8);
+          z-index: -1;
+        }
+      
+        img {
+          width: 220px;
+          height: 220px;
+          border-radius: 50%;
+          border: 5px solid #3498db;
+          object-fit: cover;
+          display: block;
+          margin: 0 auto 20px auto;
+        }
+        h1, h2 {
+          text-align: center;
+          color: #3498db;
+        }
+        p, ul {
+          font-size: 18px;
+          line-height: 1.6;
+        }
+        ul {
+          list-style: none;
+          padding: 0;
+          text-align: center;
+        }
+        ul li {
+          margin: 10px 0;
+        }
+        a {
+          color: #1976d2;
+          text-decoration: none;
+          font-size: 20px;
+        }
+        a i {
+          margin-right: 8px;
+          color: #3498db;
+        }
+      </style>
+    </head>
+    <body>
+    
+      <nav>
+        <a href="profil.html">← Kembali ke Profil</a>
+      </nav>
+      <style>
+        p {
+          text-align: justify;
+        }
+      </style>
+      <article>
+        <h2>Apakah Dia Akhir?</h2>
+        <p>
+           Diakala sore hari, dipadukan dengan awan gelap serta hujan yang begitu deras mengguyur bumi bumi.  Angin yang begitu kencang, membuatku ingin terus berada di bawah gulungan selimt. Rasa kantuk dan rasa malas menyeruak kedalam hatiku. 
+Aku putuskan menarik selimut dan Kembali tertidur. <br>
+<em>
+hoaamm,,,,,,,,,,hoaam,,,,,,,,hoaamm,,,,,, <br>
+</em>
+Tiga kali aku menguap mencoba menutup mata menuju alam mimpi. <br>
+Saat itu juga suara notifikasi berdering nyaring di hanphoneku. <br>
+<em>
+Ting,,,ting,,,ting. Ting,,,ting,,,ting <br>
+</em>
+Dengan perasaan kesal, aku melihat pesan siapa yang telah mengganggu tidur ku ini. <br>
+Kulihat beberapa saat diam tak bergeming, berusaha stabilkan deru jantungku yang berdetak tak beraturan. <br>
+<em>“Hai, kamu PKL dimana?”,</em> pesan yang masuk di hanphoneku. <br>
+<em>“Kok gak di bales, diliat doang”,</em> pesan Kembali masuk. <br>
+Dengan perasaan yang sulit di artikan jari-jari lentikku menari-nari di atas layar hp mengetik balasan pesan yang masuk. <br>
+<em>	“Hah? Oh, aku PKL di Mamuju”, </em> jawabku yang sedikit ngeblank. <br>
+<em>	“Maaf lama balesnya”, </em> tambahku hihihi sambil senyum-senyum sendiri. <br>
+Aku menunggu balasan tapi tak kunjung masuk, perasaanku Kembali dongkol dan merasa kesal. <br>
+“Dahlah, nih orang kerjaannya phpin orang mulu. Mending gue lanjut tidur”, dumelku. <br>
+Sepersekian detik kemudian aku tertidur masuk dalam mimpi yang Panjang. <br>
+<em>“Khuamm, tidur adalah hal ternyaman”, </em> bangunku seraya meregangkan seluruh tubuhku. <br>
+Kulirik ponselku, mengingat kejadian sebelum aku tidur. Dalam hati. <br>
+	“Ada balasan gak yah? Humm, liat ah”. <br>
+Belum sempat kuraih benda pipih itu suara teriakan mama, nyaring menelusuk kedalam gendang telinga. <br>
+<em> “Serli, bangun sudah malam. Sana makan dulu nak!”, </em> teriaknya sambil menuju kekamarku. <br>
+ </p>
+ <p>
+    Dengan rasa panik buru-buru bangun dan cengengesan. <br>
+	<em> “Iya mah, ini bangun. Udah dari tadik malahan”, </em> bohongku hihi. <br>
+Selepas makan malam, aku tergesah-gesah kembali masuk ke dalam kamar. Ku ambil bendah pipih yang berada di atas nakas kubuka dan masuk kedalam Room Chat Instagram. Kubuka pesan yang masuk sambil tersenyum dengan hati yang kian meleleh hihihi padahal chat doang. <br>
+<strong> *** </strong> <br>
+Marselinus adalah lelaki yang pernah hadir mewarnai hari-hari ku. Ia hadir disaat aku patah hati, ia menyembuhkan luka yang tertoreh dihati ini. Namun, ia meninggalkan luka yang mendalam. <br>
+“Ia obat, tetapi juga luka,” <br>
+<strong> *Flashback </strong><br> 
+Terkadang seseorang yang hadir menyembuhkan luka yang tertoreh dihati, sekaligus membawa luka yang lebiih menyayat hati. <br>
+Disaat aku mulai nyaman akan kehadirannya, saat itu juga kekasihnya menghubungiku. Ia menyuruhku menjauhi kekasihnya. <br>
+	<em>“Ha..ha..ha…ha……….”. </em><br>
+Aku hanya bisa tertawa ternyata seseorang yang membuatku nyaman ternyata sudah memiliki kekasih. <br>
+Yahh, aku tahu perasaan kekasihnya. <br>
+Sebagai seorang Perempuan aku paham. <br>
+Dengan itu aku mundur. <br>
+Dan aku tahu, kekasihnya itu memblok semua akses yang memungkinkan kekasihnya menghubungiku. Miris sih, tapi gimana lagi. <br>
+Saat itu juga, kumulai hari-hariku bersusah payah lelaki itu. <br>
+ </p>
+ <p>
+    <em>
+   <strong> *** </strong> <br>
+“Orang yang pernah hadir <br> 
+memberikan kebahagiaan <br>
+ dan harapan takkan pernah <br>
+hilang dalam memori” <br>
+<strong> *Flashbackoff </strong> <br>
+</em>
+Seperti sekarang, walaupun sudah setahun lebih. Kini lelaki itu kembali menghubungiku. Namun bedanya, dulu dia memiliki kekasih. Sekarang ia hadir membawa lukanya. Walaupun begitu, aku masih memiliki perasaan dengannya dan tetap merseponnya.
+Setelah melihat pesan yang masuk pada romm chat Instagram. Kulihat dua pesan baru.
+<em>	“Apner PKL dimana emang?”, </em> balasnya.  <br>
+<em>	“Iya, gak papa kok”, </em> pesan keduanya.  <br>
+Aku memicingkan mataku membaca pesan yang ia kirim, kok tiba-tiba bahas Apner sih. Walaupun begitu, aku tetap membalas pesannya. Jari-jari lentikku mulai menetik balasan dengan begitu cepat.
+<em>	“Apner PKL di depan tempat aku”, </em> balasku sedikit tidak minat dengan topik itu. <br>
+Dari hari itu, aku dan dia kembali dekat. Hari-hari bertukar pesan bahkan saling menelfon.
+Dari itu juga, ia mulai bercerita tentang masalalunya yang menduakannya disaat ia masih sangat mencintai mantan kekasihnya itu.
+Marselinus ia adalah lelaki yang berhati baik, aku akui itu. Ia lelaki yang mampu menghargai wanitanya, mencintai wanitanya dengan tulus tanpa sedikitpun ada niatan menduakan seorang Perempuan. Itu yang membuatku kagum dengannya dan jatuh cinta dengannya, tapi sayang ia yang diduakan.
+<strong><em>
+*** <br>
+“Cinta yang belum dimulai, <br>
+Namun pergi, <br>
+Dan hadir kembali, dengan kepastian <br>
+kebahagiaan. <br>
+Apakah ini adalah cinta sejati?” <br>
+</strong></em>
+
+Dari awal menghubungiku, yang ternyata hanya sekedar basa-basi doang yah hahahah. Dari topik yang tidak jelas, tapi itu mampu mengulik kembali kisah yang lama 
+
+
+ </p>
+    </article>
+    <article>
+        <style>
+          p {
+            text-align: center;
+          }
+        </style>
+        <p>
+          <strong><em>
+            ***Tunggu Part Selanjutnya Yahhhh....***<br>
+            Serlia Turu Allo<br>
+            Mahasiswa Aktif Universitas Sulawesi Barat<br>
+            Program Studi Sistem Informasi<br>
+            Fakultas Teknik<br>
+            Pada Karya Ini Menang pada tahun 2024 Tingkat Universitas<br>
+            Dengan Juara Harapan 1
+          </em></strong>
+        </p>
+      </article>
+      <nav>
+        <a href="penulis2.html"display: inline-block; margin-top: 20px;">
+          Selanjutnya → 
+        </a>
+      </nav>
+      
+    
+    
+    </body>
+  <nav>
+    <a href="penulis.html">← Kembali ke Halaman Sebelumnya</a>
+  </nav>
+</body>
+</html>
+
